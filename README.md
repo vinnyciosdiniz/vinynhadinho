@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinynhadinho
+- 👋 Hi, I’m Vinnycios
 - 👀 I’m interested in programming :)
 - 🌱 I’m currently learning php && laravel :)
 - 💞️ I’m looking to collaborate on hacktoberfest
